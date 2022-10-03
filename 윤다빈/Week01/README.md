@@ -1,0 +1,1 @@
+🔗 1주차 과제 정리 노션 : https://pickle-fireplant-fa1.notion.site/1-e4473c76d6104ad98151bc9407190a4d
