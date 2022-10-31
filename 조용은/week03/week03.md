@@ -34,6 +34,7 @@ null일 경우 NullPointerException 발생
     -  ps, c= close() 가능
 
 
+
 ### 2.2  조회용 JDBC
 상황 : connection, preparedStatement에 ResultSet 추가
 해결 : User 등록된 수 가져오기 -  getCount() 메소드 예외처리
