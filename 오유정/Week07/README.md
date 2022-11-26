@@ -1,0 +1,1 @@
+[7주차 6장 AOP 정리 노션 페이지](https://steel-bird-65a.notion.site/7-6-AOP-2-9f979ed59e6b46a9addb647c9f5ccdae)
